@@ -11,7 +11,7 @@ Hi, I’m Rakshit. As a Data Analyst, I transform data into insights that drive 
    
 ### 📚 <ins>Projects</ins>-
 
-Thank you for visiting my portfolio, where I highlight my projects.
+Thank you for visiting my portfolio, where I highlight my [projects](https://github.com/RakshitM42/Portfolio_Projects/edit/main/README.md).
 
 ### 🛠️ <ins>Tools</ins>
 *  **Languages**: SQL, Python.                                                                
